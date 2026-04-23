@@ -1,1 +1,1 @@
-<img src="https://i.postimg.cc/Y21S31jN/Vector-(2).jpg" width="1012" height="200">
+<img src="https://raw.githubusercontent.com/k1nnx/k1nnx/f49d267065bfe5e3712a15a0affebf7386f05023/banner.svg"/>
